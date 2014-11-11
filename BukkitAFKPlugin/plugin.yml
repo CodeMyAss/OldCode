@@ -1,0 +1,10 @@
+name: T2L_AFK
+main: afk.AFK
+version: 1.0
+description: >
+             AFK System
+commands:
+  afk:
+    description: Set or clear your flag
+  whoafk:
+    description: Who is AFK

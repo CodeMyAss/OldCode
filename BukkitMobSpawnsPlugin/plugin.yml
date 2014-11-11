@@ -1,0 +1,6 @@
+name: T2L_AntiSpawn
+main: spawns.BlockMobs
+version: 1.0
+description: >
+             Blocks evil from spawning.
+commands:

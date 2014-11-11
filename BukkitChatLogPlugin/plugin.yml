@@ -1,0 +1,6 @@
+name: T2L_ChatLogger
+main: chatlog.Grabber
+version: 1.0
+description: >
+             ChatLogger
+commands:

@@ -1,0 +1,10 @@
+name: T2L_AMS
+main: ams.AMSMain
+version: 1.0
+description: >
+             Area Protection
+commands:
+  ams:
+    description: AMS System.
+  claim:
+    description: Claim a contest zone

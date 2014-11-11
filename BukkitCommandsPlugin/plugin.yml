@@ -1,0 +1,40 @@
+name: T2L_MoreCommands
+main: commands.Commands
+version: 1.0
+description: >
+             Adds custom commands.
+commands:
+  weather:
+    description: Set the type, rain, clear, or storm.
+  spawn:
+    description: Spawn mob, type, amount.
+  killall:
+    description: Kill everything around the player within 60 blocks.
+  setspawn:
+    description: Set new spawn point.
+  home:
+    description: Go to spawn.
+  spawnmax:
+    description: Set spawn max
+  gm:
+    description: Set game mode
+  todo:
+    description: Get todo list
+  admin:
+    description: Create a new Admin
+  helpme:
+    description: Get help from an OP.
+  server:
+    description: Broadcast message
+  time:
+    description: Set time
+  op:
+    description: Assign a mod
+  deop:
+    description: Remove a mod
+  stop:
+    description: Stop server
+  builder:
+    description: New builder
+  dbuilder:
+    description: Remove builder

@@ -1,0 +1,6 @@
+name: T2L_OPInventoryStacks
+main: op.Inventory
+version: 1.0
+description: >
+             OP Infinite Stacks
+commands:

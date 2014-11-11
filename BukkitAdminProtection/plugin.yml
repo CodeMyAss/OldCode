@@ -1,0 +1,6 @@
+name: T2L_AdminProtection
+main: admin.Protection
+version: 1.0
+description: >
+             Admin IP Checker. HARDCODED
+commands:

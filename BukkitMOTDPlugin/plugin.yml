@@ -1,0 +1,6 @@
+name: T2L_MOTD
+main: motd.MOTD
+version: 1.0
+description: >
+             MOTD System.
+commands:

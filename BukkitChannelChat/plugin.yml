@@ -1,0 +1,32 @@
+name: T2L_ChannelChat
+main: channel.Chat
+version: 1.0
+description: >
+             Channel chat
+commands:
+  ch:
+    description: Talk in a channel.
+  joinch:
+    description: Join a channel.
+  createch:
+    description: New channel.
+  leavech:
+    description: Leave a channel.
+  say:
+    description: Say.
+  yell:
+    description: Yell.
+  local:
+    description: Local chat.
+  pm:
+    description: Private message.
+  tell:
+    description: Private message.
+  msg:
+    description: Private message.
+  r:
+    description: Private message.
+  reply:
+    description: Private message.
+  chhelp:
+    description: Channel chat help

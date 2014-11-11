@@ -1,0 +1,6 @@
+name: T2L_RedstoneDevices
+main: redstone.Devices
+version: 1.0
+description: >
+             Adds redstone devices and mechanics
+commands:

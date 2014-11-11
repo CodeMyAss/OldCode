@@ -1,0 +1,32 @@
+name: T2L_Economy
+main: economy.plugin.WorldLauncher
+version: 1.0
+description: >
+             Adds economy
+commands:
+  sellchest:
+    description: Sell everything in the targeted chest
+  sellall:
+    description: Sell your entire inventory
+  sell:
+    description: Sell an item
+  buy:
+    description: Buy an item
+  wealth:
+    description: Get wealth
+  ehelp:
+    description: Help menu
+  esave:
+    description: Help menu
+  invget:
+    description: Admin command
+  spawnnpc:
+    description: Admin command
+  mbank:
+    description: Mobile Bank
+  mstore:
+    description: Store a mobile bank
+  mset:
+    description: Admin command
+  munset:
+    description: Admin command

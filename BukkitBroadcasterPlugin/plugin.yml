@@ -1,0 +1,12 @@
+name: T2L_Broadcaster
+main: broadcaster.Launcher
+version: 1.0
+description: >
+             Broadcasts messages at a set interval.
+commands:
+  BC_STOP:
+    description: Prevents the broadcasting from continuing.
+  BC_START:
+    description: Initiates the broadcasting process.
+  BC_TIME:
+    description: Set the interval time (seconds).

@@ -1,0 +1,20 @@
+name: T2L_AMS
+main: ams.AMSMain
+version: 1.0
+description: >
+             Area Protection
+commands:
+  pvp:
+    description: Set PvP Flag on or off
+  leaveclan:
+    description: Leave clan
+  joinclan:
+    description: Join a clan
+  createclan:
+    description: Create a clan
+  clankick:
+    description: Kick player from clan
+  clan:
+    description: Speak in clan chat
+  listclans:
+    description: Show all clans

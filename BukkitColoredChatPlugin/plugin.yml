@@ -1,0 +1,6 @@
+name: T2L_ChatColors
+main: chat.AddColor
+version: 1.0
+description: >
+             Colored Chat
+commands:

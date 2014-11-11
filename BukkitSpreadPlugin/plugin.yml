@@ -1,0 +1,6 @@
+name: T2L_Anti-Grief
+main: spread.BlockSpread
+version: 1.0
+description: >
+             Stops fire.
+commands:

@@ -1,0 +1,12 @@
+name: T2L_Ruler
+main: ruler.Ruler
+version: 1.0
+description: >
+             Adds ruler
+commands:
+  dto:
+    description: Shows distance to player.
+  dflag:
+    description: Sets a flag.
+  dtoflag:
+    description: Gets distance from flag.

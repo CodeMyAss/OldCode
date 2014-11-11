@@ -1,0 +1,14 @@
+name: T2L_MultiWorld
+main: mw.WorldLauncher
+version: 1.0
+description: >
+             Adds more worlds
+commands:
+  warp:
+    description: Warp to a world
+  create:
+    description: Create a world
+  w:
+    description: World teleportation options
+  where:
+    description: Tells you where someone is

@@ -1,0 +1,12 @@
+name: T2L_Teleport
+main: tp.Teleport
+version: 1.0
+description: >
+             Fixes teleportation
+commands:
+  tp:
+    description: Teleport 1 player to another
+  goto:
+    description: Go to a player
+  summon:
+    description: Summon a player

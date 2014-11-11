@@ -1,0 +1,6 @@
+name: T2L_ServerFile_BG
+main: server.file.Loader
+version: 1.0
+description: >
+             Creates the .SERVER file needed for mc.turt2live.com
+commands:
