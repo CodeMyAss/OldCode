@@ -1,0 +1,126 @@
+Session Started 11 Nov 2014 05:48:33 GMT
+DIRECTORY: T:\Portfolio\Memory
+Update Checking... 
+Checking for player data... Found!
+Checking for images... All Good!
+Checking Card Images... 
+	Card 1: Found!
+	Card 2: Found!
+	Card 3: Found!
+	Card 4: Found!
+	Card 5: Found!
+	Card 6: Found!
+	Card 7: Found!
+	Card 8: Found!
+	Card 9: Found!
+	Card 10: Found!
+	Card 11: Found!
+	Card 12: Found!
+	Card 13: Found!
+	Card 14: Found!
+	Card 15: Found!
+	Card 16: Found!
+	Card 17: Found!
+	Card 18: Found!
+	Card 19: Found!
+	Card 20: Found!
+	Card 21: Found!
+	Card 22: Found!
+	Card 23: Found!
+	Card 24: Found!
+	Card 25: Found!
+	Card 26: Found!
+	Card 27: Found!
+	Card 28: Found!
+	Card 29: Found!
+	Card 30: Found!
+	Card 31: Found!
+	Card 32: Found!
+	Card 33: Found!
+	Card 34: Found!
+	Card 35: Found!
+No Update Needed!
+Update Checking Done.
+----------------------------------
+Generating Cards... 
+	Card 1/70 Generated! (ID = 5)
+	Card 2/70 Generated! (ID = 5)
+	Card 3/70 Generated! (ID = 8)
+	Card 4/70 Generated! (ID = 8)
+	Card 5/70 Generated! (ID = 6)
+	Card 6/70 Generated! (ID = 6)
+	Card 7/70 Generated! (ID = 1)
+	Card 8/70 Generated! (ID = 1)
+	Card 9/70 Generated! (ID = 1)
+	Card 10/70 Generated! (ID = 1)
+	Card 11/70 Generated! (ID = 4)
+	Card 12/70 Generated! (ID = 4)
+	Card 13/70 Generated! (ID = 8)
+	Card 14/70 Generated! (ID = 8)
+	Card 15/70 Generated! (ID = 2)
+	Card 16/70 Generated! (ID = 2)
+	Card 17/70 Generated! (ID = 8)
+	Card 18/70 Generated! (ID = 8)
+	Card 19/70 Generated! (ID = 5)
+	Card 20/70 Generated! (ID = 5)
+	Card 21/70 Generated! (ID = 5)
+	Card 22/70 Generated! (ID = 5)
+	Card 23/70 Generated! (ID = 8)
+	Card 24/70 Generated! (ID = 8)
+	Card 25/70 Generated! (ID = 1)
+	Card 26/70 Generated! (ID = 1)
+	Card 27/70 Generated! (ID = 8)
+	Card 28/70 Generated! (ID = 8)
+	Card 29/70 Generated! (ID = 1)
+	Card 30/70 Generated! (ID = 1)
+	Card 31/70 Generated! (ID = 6)
+	Card 32/70 Generated! (ID = 6)
+	Card 33/70 Generated! (ID = 7)
+	Card 34/70 Generated! (ID = 7)
+	Card 35/70 Generated! (ID = 4)
+	Card 36/70 Generated! (ID = 4)
+	Card 37/70 Generated! (ID = 5)
+	Card 38/70 Generated! (ID = 5)
+	Card 39/70 Generated! (ID = 3)
+	Card 40/70 Generated! (ID = 3)
+	Card 41/70 Generated! (ID = 7)
+	Card 42/70 Generated! (ID = 7)
+	Card 43/70 Generated! (ID = 4)
+	Card 44/70 Generated! (ID = 4)
+	Card 45/70 Generated! (ID = 4)
+	Card 46/70 Generated! (ID = 4)
+	Card 47/70 Generated! (ID = 2)
+	Card 48/70 Generated! (ID = 2)
+	Card 49/70 Generated! (ID = 3)
+	Card 50/70 Generated! (ID = 3)
+	Card 51/70 Generated! (ID = 4)
+	Card 52/70 Generated! (ID = 4)
+	Card 53/70 Generated! (ID = 6)
+	Card 54/70 Generated! (ID = 6)
+	Card 55/70 Generated! (ID = 5)
+	Card 56/70 Generated! (ID = 5)
+	Card 57/70 Generated! (ID = 6)
+	Card 58/70 Generated! (ID = 6)
+	Card 59/70 Generated! (ID = 3)
+	Card 60/70 Generated! (ID = 3)
+	Card 61/70 Generated! (ID = 3)
+	Card 62/70 Generated! (ID = 3)
+	Card 63/70 Generated! (ID = 1)
+	Card 64/70 Generated! (ID = 1)
+	Card 65/70 Generated! (ID = 1)
+	Card 66/70 Generated! (ID = 1)
+	Card 67/70 Generated! (ID = 4)
+	Card 68/70 Generated! (ID = 4)
+	Card 69/70 Generated! (ID = 2)
+	Card 70/70 Generated! (ID = 2)
+Mixing up cards... Done!
+Clicked At Point (131.0, 117.0)
+Clicked At Point (217.0, 208.0)
+Clicked At Point (360.0, 223.0)
+Clicked At Point (525.0, 202.0)
+Clicked At Point (591.0, 233.0)
+Clicked At Point (427.0, 401.0)
+Clicked At Point (377.0, 389.0)
+Clicked At Point (359.0, 319.0)
+Clicked At Point (435.0, 306.0)
+Clicked At Point (424.0, 223.0)
